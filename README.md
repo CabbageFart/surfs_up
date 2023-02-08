@@ -24,6 +24,6 @@
   
 ![image](https://user-images.githubusercontent.com/111661058/217660034-7b68083a-1940-46aa-8d10-200f57b6f167.png)
   
-Another more in depth query we could do is to search out specific dates and find temps/prcp with the station number that recordeed the info. Here is an example of the temps caode.
+Another more in depth query we could do is to search out specific dates and find temps/prcp with the station number that recordeed the info. Here is an example of the temps code.
 
 ![image](https://user-images.githubusercontent.com/111661058/217660427-84c628b9-58ba-4a83-8faf-68039db457f3.png)
