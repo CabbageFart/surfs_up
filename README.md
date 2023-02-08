@@ -4,5 +4,9 @@
   After my recent visit to O'ahu I discovered that I never wnated to leave. So after many ideas I settled on one that would make both my soul and body happy. A surfing and ice cream business! Now all I needed was the capital. I found an investor, W. Avy, that had the same love for both surfing and ice cream but he wasn't as ready as I was to dive head first. He wanted to know the avg temperatures for both June and December inorder to see if the business could operate year round.
   
 ## How's the Weather
-  We gathered data from the sqlite file produced by the weather stations located aroud the island.
+  We gathered data from the sqlite file produced by the weather stations located aroud the island. Nine stations in all.
   
+  ![image](https://user-images.githubusercontent.com/111661058/217645737-f8cbadff-af65-46ac-8600-11fc703dfcb0.png)
+
+Using our Python, Pandas, and SQLAlchemy skills we were able to extract the temperatures from both June and December.
+
