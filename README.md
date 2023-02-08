@@ -10,7 +10,7 @@
   
   ![image](https://user-images.githubusercontent.com/111661058/217645737-f8cbadff-af65-46ac-8600-11fc703dfcb0.png)
 
-  * Using my Python, Pandas, and SQLAlchemy skills I was ta able to extract the temperatures from both June and December.
+  * Using my Python, Pandas, and SQLAlchemy skills I was then able to extract the temperatures from both June and December. With this formula you can few any month you wish by simply changing the 6(June) to any number 1-12.
 
 ![image](https://user-images.githubusercontent.com/111661058/217646359-26060931-8dd8-49d1-a209-a097a27eb4ed.png)
 
@@ -20,3 +20,6 @@
 
 ## Summary
 
+  With this data W. Avy will be able to see that the temperatures do not deviate that much throughout the year. One analysis that I will have to do after this is to find how much it rains during particular months. The code I used to find the temps can be easily repurposed for this task.
+  
+  
