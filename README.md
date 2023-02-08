@@ -22,4 +22,7 @@
 
   With this data W. Avy will be able to see that the temperatures do not deviate that much throughout the year. One analysis that I will have to do after this is to find how much it rains during particular months. The code I used to find the temps can be easily repurposed for this task.
   
+![image](https://user-images.githubusercontent.com/111661058/217660034-7b68083a-1940-46aa-8d10-200f57b6f167.png)
   
+Another more in depth query we could do is to search out specific dates and find temps/prcp with the station number that recordeed the info. Here is an example of the temps caode.
+
